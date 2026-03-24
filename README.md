@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="public/gemo-logo.png" alt="Gemo Logo" width="80" />
+<img src="./gemo-logo.png" alt="Gemo Logo" width="80" />
 
 # Gemo
 
